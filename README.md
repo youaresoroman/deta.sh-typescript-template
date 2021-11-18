@@ -1,3 +1,24 @@
 # Deta.sh Micro with TypeScript Template
 
-This is the boilerplate code for running a serverless Deta.sh micro using TypeScript and Express.
+Boilerplate for Deta.sh Micro with Typescript support
+
+## Build
+
+```bash 
+npm run build
+
+```
+
+## Local Development
+
+```bash
+npm run dev
+
+```
+
+## Deploy
+
+```bash 
+npm run deploy
+
+```
